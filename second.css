@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    background-color: aquamarine;
+    margin: 30px;
+    border: 20pxs;
+    padding-bottom: 10pxS;
+     
+}
+p{
+    background-color: rgb(0, 255, 98);
+    font-size-adjust: 50px;
+    text-align: center;
+    margin: 50px;
+    width: 600px;
+    height: 100px;
+}
